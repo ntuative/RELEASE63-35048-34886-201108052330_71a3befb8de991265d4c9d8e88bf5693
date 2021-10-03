@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><layout name="iro_tag" width="262" height="20" version="0.1" uid="210CEC1D-72A5-FDCA-0465-94E44B36CCEB">
+  <window>
+    <region x="0" y="0" width="262" height="20" params="81" style="0" name="group" color="0x0cc0000" background="true" treshold="0">
+      <children>
+        <background x="0" y="0" width="262" height="20" params="16" style="0" name="bg" color="0xffffffffff" background="true"/>
+        <text x="6" y="0" width="134" height="17" params="16" style="0" name="group_name_txt" caption="Masters%20of%20the%20universe">
+          <variables>
+            <var key="antialias_type" value="advanced" type="String"/>
+            <var key="auto_size" value="left" type="String"/>
+            <var key="font_face" value="Ubuntu" type="String"/>
+            <var key="font_size" value="12" type="uint"/>
+            <var key="mouse_wheel_enabled" value="false" type="Boolean"/>
+          </variables>
+        </text>
+      </children>
+    </region>
+  </window>
+</layout>
